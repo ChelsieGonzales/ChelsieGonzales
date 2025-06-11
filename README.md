@@ -2,8 +2,8 @@
 
 🎓 I’m a 2nd Year Computer Science student at **Batangas State University – The National Engineering University**  
 🌱 Currently focused on learning **Java, C++, C#, Python and building real-world projects**  
-💼 Looking for **part-time remote jobs or paid internships** to support myself and grow professionally  
-💡 Passionate about creating practical solutions using code  
+💼 Currently looking for **part-time remote jobs or paid internships** to grow professionally and support my own expenses  
+💡 I love learning new technologies and building meaningful **projects that solve real problems**
 📫 Reach me at: gonzaleschelsie0123@gmail.com
 
 ---
