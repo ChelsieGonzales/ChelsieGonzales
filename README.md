@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Java, C++, C#, Python
+- 💻 Java, C++, C#, Python, Dart, Flutter
 - 🌐 HTML, CSS (basic)
 - 🗃️ MySQL
 - 🧠 OOP, Data Structures & Algorithms
@@ -35,6 +35,12 @@ A fun and interactive Blackjack game first developed in C++ and then rewritten i
 A console-based app for period tracking with features like mood logging, cycle prediction, and pregnancy chance estimation.  
 > Java | OOP | Menstrual Health Tracker  
 [🔗 View on GitHub]([https://github.com/ChelsieGonzales](https://github.com/ChelsieGonzales/Luna-Riding-the-Cycle-Waves))
+
+---
+
+### Ambag - Smart Expense Splitting Application (Dart and Flutter)
+A mobile expense-splitting application developed using Flutter and Dart. It helps users organize shared expenses, calculate individual contributions, and manage group payments conveniently. The application aims to simplify expense management and promote transparency among friends and groups sharing expenses.
+> Dart | Flutter | Splitting Application
 
 ---
 
